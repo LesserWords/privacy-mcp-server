@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
+    "build:exe": "bun build --compile src/index.ts --outfile privacy-mcp.exe",
     "start": "node dist/index.js"
   },
   "dependencies": {
