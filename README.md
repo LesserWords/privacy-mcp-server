@@ -1,5 +1,8 @@
 # Reusable Privacy MCP Server
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+**English** | [Português (Brasil)](README.pt-BR.md)
+
 A zero-data-leakage, privacy-first Model Context Protocol (MCP) server designed for any local document workspace.
 
 ## Features
